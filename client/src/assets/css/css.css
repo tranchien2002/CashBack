@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Fira Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Fira Sans SemiBold'), local('FiraSans-SemiBold'),
+    url(../fonts/va9B4kDNxMZdWfMOD5VnSKzeRhf_.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmj.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmj.ttf) format('truetype');
+}
